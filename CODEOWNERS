@@ -1,0 +1,13 @@
+# CODEOWNERS file
+# Ownership for the entire repository
+* @marklondon999
+
+# Ownership by specific team roles
+#src/ @dev1 @dev2
+#tests/ @tester1 @tester2
+#scripts/ @maintenance_team
+#
+
+# Optional: Read-only for cloning users (list as watchers)
+#* @cloner1 @cloner2
+#
