@@ -1,6 +1,9 @@
 # CODEOWNERS file
 # Ownership for the entire repository
 * @marklondon999
+* SarazinMAC
+* EmmaWoodONS
+* RHRench
 
 # Ownership by specific team roles
 #src/ @dev1 @dev2
