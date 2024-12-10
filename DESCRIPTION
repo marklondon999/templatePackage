@@ -2,6 +2,7 @@ Package: tutorial
 Title: My Package Tutorial
 Version: 0.0.0.9000
 Author: Mark London
+Maintainer: Mark London <Mark.London@ext.ons.gov.uk>
 Description: What the package does (one paragraph).
 License: `use_mit_license()`
 Encoding: UTF-8
