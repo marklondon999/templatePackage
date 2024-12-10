@@ -1,5 +1,5 @@
 git init
-git remote add origin https://github.com/ONSdigital/tutorialfive.git
+git remote add origin https://github.com/ONSdigital/tutorialseven.git
 git remote -v
 git add .
 git commit -m "Initial commit"
