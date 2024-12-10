@@ -1,14 +1,14 @@
 # initial setup
-install.packages("devtools")
+install.packages("devtools", ask = FALSE)
 library("devtools")
-install.packages("roxygen2")
+install.packages("roxygen2", ask = FALSE)
 library("roxygen2")
-install.packages("usethis")
+install.packages("usethis", ask = FALSE)
 library("usethis")
-install.packages("testthat")
+install.packages("testthat", ask = FALSE)
 library("testthat")
 
-install.packages("stringr")
+install.packages("stringr", ask = FALSE)
 library("stringr")
 
 
